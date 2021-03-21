@@ -1,6 +1,9 @@
 name="Kaiserreich: Deutsches Heer"
 replace_path="common/units/names_divisions/"
 replace_path="history/units/GER.txt"
+dependencies={
+	"Kaiserreich"
+}
 tags={
 	"Alternative History"
 	"Fixes"
