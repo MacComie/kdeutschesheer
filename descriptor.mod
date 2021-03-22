@@ -9,7 +9,7 @@ tags={
 	"Fixes"
 	"Military"
 }
-picture="kdeutschesheer.jpg"
+picture="thumbnail.png"
 version="1.2.5"
 supported_version="/"
 remote_file_id="1899875803"
